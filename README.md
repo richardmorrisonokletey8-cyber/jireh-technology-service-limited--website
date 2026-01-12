@@ -1,1 +1,2 @@
-# jireh-technology-website
+index.html
+sitemp.xml
